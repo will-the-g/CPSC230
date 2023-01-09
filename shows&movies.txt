@@ -1,0 +1,13 @@
+whiplash:10:YYYY-MMM-DD:YYYY-MM-DD
+Baby Driver:7.9:2022-12-13:2022-12-13
+Stranger Things:8.6:YYYY-MMM-DD:YYYY-MM-DD
+Shining:6:YYYY-MMM-DD:YYYY-MM-DD
+The Banker:9.5:YYYY-MMM-DD:YYYY-MM-DD
+Arcane:8.3:YYYY-MMM-DD:YYYY-MM-DD
+Wednesday:7.5:2022-12-06:2022-12-14
+Morbius:6.8:YYYY-MMM-DD:YYYY-MM-DD
+Caroline:5:YYYY-MMM-DD:YYYY-MM-DD
+The Wolf of Wallstreet:9.3:YYYY-MMM-DD:YYYY-MM-DD
+Everything Everywhere All at Once:7.7:YYYY-MMM-DD:YYYY-MM-DD
+Bullet Train:9:2022-12-06:2022-12-06
+Sex Education:7.2:YYYY-MMM-DD:YYYY-MM-DD

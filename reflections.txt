@@ -1,0 +1,28 @@
+1. Which assignment did you choose to refactor and why?
+I refactored the password storage assignment because I realized after the fact that
+if a character that wasn’t in my encryption dictionary was given, it would give an error.
+In addition, I found a small chunk of code that was the same between 2 different if-else statements.
+
+
+2. How was the experience of re-factoring your code into functions? 
+It was pretty good. Refactoring the original code into functions was easy. 
+I did add to the function too. I made the function keep asking for a service until the right one 
+was provided, instead of just exiting to the main input area. 
+The user could also exit if they wanted.
+
+
+
+3. Now that your code has been re-factored, reflect on the difference between your original implementation 
+and your new implementation. How have functions improved your project?
+The code is cleaner as the different options for the if-else statements are less bulky. 
+In addition, I can separate different parts of the program to make it more readable.
+The things I added like checking for nonalphanumeric characters and adding to the service-checking function, 
+made the program give no errors and makes it easier to use. 
+In addition, I added small things to make the program more user-friendly like listing 
+all the services after typing update or view. 
+
+
+
+4. Why is code readability important? How do functions work in tandem with style and naming conventions to make your code more readable?
+Code readability is important if there is a bug/error. It will make it easier to find and fix the bug/error. 
+
